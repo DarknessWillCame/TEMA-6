@@ -57,6 +57,8 @@ print('Пример 2:', remove_element_from_tuple((example_2)))
 print('Пример 3:', remove_element_from_tuple((example_3)))
 
 Результат.
+![Tema6_2](https://github.com/DarknessWillCame/TEMA-6/assets/46960566/fec9bf2f-e296-43ce-a104-7885ec8538fd)
+
 Результат задания 2
 
 Выводы
@@ -87,6 +89,7 @@ for x in result.items():
     print(f'Число {x[0]} встретилось {x[1]} раз(а)')
     
 Результат.
+![Tema6_3](https://github.com/DarknessWillCame/TEMA-6/assets/46960566/a3e4e848-e40b-4acb-b832-4e5d139d5c4b)
 
 Результат задания 3
 
@@ -125,6 +128,7 @@ print('Пример 2:', get_employee_order(example_2))
 print('Пример 3:', get_employee_order(example_3))
 
 Результат.
+![Tema6_4](https://github.com/DarknessWillCame/TEMA-6/assets/46960566/a39cb69d-ed81-48f8-b926-b5b154ade200)
 
 Результат задания 4
 
@@ -151,6 +155,7 @@ print('Пример 2:', get_even_numbers(example_2))
 print('Пример 3:', get_even_numbers(example_3))
 
 Результат.
+![Tema6_5](https://github.com/DarknessWillCame/TEMA-6/assets/46960566/06a75372-c305-48e8-a511-1b60feb23ba0)
 
 Результат задания 5
 
