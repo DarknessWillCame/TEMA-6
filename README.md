@@ -23,7 +23,10 @@ processed_value = value.split(' ')
 
 print('Список:', list(processed_value))
 print('Кортеж:', tuple(processed_value))
+
 Результат.
+![Tema6_1](https://github.com/DarknessWillCame/TEMA-6/assets/46960566/ebd783e7-5457-446c-b365-bb4fe8023087)
+
 Результат задания 1
 
 Выводы
